@@ -26,7 +26,7 @@ Example:
 
 For case-insensitive search, set the environment variable:
 
-    CASE_INSENSITIVE=1 cargo run -- to poem.txt
+    IGNORE_CASE=1 cargo run -- to poem.txt
 
 Build & Test
 ------------
