@@ -7,7 +7,7 @@ A simple command-line tool written in Rust that searches for a query string in a
 About
 -----
 
-This project is a part of The [Rust Programming Language Book](https://doc.rust-lang.org/book/ch12-00-an-io-project.html) (Chapter 12) and serves as an introduction to:
+This project is a part of [The Rust Programming Language Book](https://doc.rust-lang.org/book/ch12-00-an-io-project.html) (Chapter 12) and serves as an introduction to:
 
 - Reading command-line arguments
 - Handling file I/O
